@@ -10,7 +10,7 @@
     "build": "babel src -d bin"
   },
   "bin": {
-    "eslint-fixer": "bin/index.js"
+    "eslint-fixit": "bin/index.js"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
