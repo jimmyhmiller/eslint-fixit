@@ -1,6 +1,6 @@
 {
   "name": "eslint-fixit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Eslint-Fixit provides a simple interface for fixing eslint rule violations",
   "main": "dist/index.js",
   "author": "Jimmy Miller",
