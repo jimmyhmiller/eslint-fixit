@@ -6,8 +6,7 @@
   "license": "MIT",
   "scripts": {
     "start": "./node_modules/.bin/babel-node src/index.js",
-    "build": "babel src -d bin",
-    "postinstall": "npm install"
+    "build": "babel src -d bin"
   },
   "bin": "./bin/index.js",
   "devDependencies": {
