@@ -1,7 +1,3 @@
-#Currently broken
-
-Install globally from the folder on your computer isn't the same as installing from npm. Need to fix the build process.
-
 # Eslint-Fixit
 
 Eslint-Fixit is an easy way to fix eslint violations. It allows you to open up each of the eslint violations in your editor so you can fix them quickly.
