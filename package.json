@@ -1,6 +1,6 @@
 {
   "name": "eslint-fixit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Eslint-Fixit provides a simple interface for fixing eslint rule violations",
   "author": "Jimmy Miller",
   "license": "MIT",
