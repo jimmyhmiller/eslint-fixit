@@ -1,6 +1,3 @@
-# Work in Progress
-Still working out some problems
-
 # Eslint-Fixit
 
 Eslint-Fixit is an easy way to fix eslint violations. It allows you to open up each of the eslint violations in your editor so you can fix them quickly.
@@ -12,13 +9,13 @@ Eslint-Fixit is an easy way to fix eslint violations. It allows you to open up e
 **Yarn:**
 
 ```bash
-yarn global add eslint eslint-fixit
+yarn global add npx eslint-fixit
 ```
 
 **Npm:**
 
 ```bash
-npm install -g eslint eslint-fixit
+npm install -g npx eslint-fixit
 ```
 
 ## Usage

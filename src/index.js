@@ -82,7 +82,7 @@ const tryParseJsonOrAbort = (str) => {
 }
 
 const getProblems = ({ file, args="" }) => {
-  return execIgnoreExitCode(`eslint --format=json ${args} ${file}`)
+  return execIgnoreExitCode(`npx eslint --format=json ${args} ${file}`)
     .then(tryParseJsonOrAbort)
 }
 

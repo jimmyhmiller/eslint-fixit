@@ -1,17 +1,14 @@
 {
   "name": "eslint-fixit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Eslint-Fixit provides a simple interface for fixing eslint rule violations",
-  "main": "dist/index.js",
   "author": "Jimmy Miller",
   "license": "MIT",
   "scripts": {
     "start": "./node_modules/.bin/babel-node src/index.js",
     "build": "babel src -d bin"
   },
-  "bin": {
-    "eslint-fixit": "bin/index.js"
-  },
+  "bin": "./bin/index.js",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-eslint": "7.0.0",
